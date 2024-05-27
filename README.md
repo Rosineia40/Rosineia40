@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rosineia40
 - 👀 I’m interested in learning everything
-- 🌱 I’m currently learning GO
+- 🌱 I’m currently learning Git e Github
 - 💞️ I’m looking to collaborate on nothing STILL
 - 📫 How to reach me WhatsApp: 5551 996072347 or email prorosigoncalves@gmail.com
 - 😄 Pronouns: She/Her
