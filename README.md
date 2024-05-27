@@ -11,21 +11,6 @@ Tenho pouco conhecimento de Git e Github, meu nível é INICIANTE, mas estou me 
 
 ##  **Conecte-se comigo**
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prorosineia/)
-
-[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prorosi2023/)
-
-
-## **Estou Aprendendo**
-
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-</br>
-</br>
-</br>
-## **Objetivo Desta atividade**
-Aprender a colaborar com projetos open source utilizando o GitHub.
-
 <div> 
  
   <a href="https://instagram.com/prorosi2023" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -34,6 +19,18 @@ Aprender a colaborar com projetos open source utilizando o GitHub.
   <a href="https://www.linkedin.com/in/prorosineia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+## **Estou Aprendendo**
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+</br>
+</br>
+</br>
+
+## **Objetivo Desta atividade**
+Aprender a colaborar com projetos open source utilizando o GitHub.
+
 
 
 
