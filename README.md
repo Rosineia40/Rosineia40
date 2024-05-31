@@ -28,6 +28,8 @@ Tenho pouco conhecimento de Git e Github, meu nível é INICIANTE, mas estou me 
 </br>
 </br>
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Rosineia40&repo=dio-lab-open-source2&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Rosineia40/dio-lab-open-source2)
+
 ## **Objetivo Desta atividade**
 Aprender a colaborar com projetos open source utilizando o GitHub.
 
